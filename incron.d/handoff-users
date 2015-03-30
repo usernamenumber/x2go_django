@@ -1,0 +1,1 @@
+/usr/local/tunapanda/data/django/handoff/state/users IN_MODIFY,IN_DELETE,IN_MOVE_FROM,IN_MOVE_TO /usr/local/tunapanda/data/handoff/bin/users $@/$# $% 

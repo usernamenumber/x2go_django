@@ -1,0 +1,5 @@
+*.swp
+*.bak
+*.sqlite3
+*.pyc
+handoff/state/users/*
